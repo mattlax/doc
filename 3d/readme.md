@@ -54,6 +54,20 @@ Qui en est à l’initiative ?
 ### Étape 4 : Il est temps de créer la vue voulue ! 
 ![image](/3d/media/Image10.png "Title")
 
-#### la vue obtenue est la suivante. Sympa non? 
+#### La vue obtenue est la suivante. Sympa non? 
 ![image](/3d/media/Image11.png "Title")
 
+### Étape 5 : Créer une vue c'est bien, montrer quelque chose c'est mieux ! Ajoutons un fond de carte satellite, obtenu via WMS. 
+*Source wms de data.grandlyon*
+Il y a une logique de création de la source (en premier, sans affichage) et l'affichage/paramétrage du layer.
+![image](/3d/media/Image12.png "Title")
+
+Les données (geojson et autres) sont directement appelées dans le Javascript, ce qui en fait une logistique plus pratique que Leaflet par exemple.
+
+#### Le rendu est déjà plus sympa non? Mais il manque quelque chose... 
+![image](/3d/media/Image13.png "Title")
+
+#### C'est tout plat !  
+![image](/3d/media/Image14.png "Title")
+
+### Étape 6 : Créer une vue c'est bien, montrer quelque chose c'est mieux ! Ajoutons un fond de carte satellite, obtenu via WMS. 
