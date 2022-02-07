@@ -1,4 +1,4 @@
-# Mise en oeuvre de Itowns, un outil Javascript ! 
+# Mise en oeuvre de Itowns, un outil Javascript ! <p align=center>
 
 ![image](/3d/media/Image1.png "Title")
 
