@@ -101,4 +101,5 @@ Les données (geojson et autres) sont directement appelées dans le Javascript, 
 ***
 ## FIN
 ***
-## Oh non, C'est déjà fini ! Si vous avez aimez ce tutoriel, allez voir la page du projet directement [ici](https://www.itowns-project.org/)
+### Oh non, c'est déjà fini ! 
+### Si vous avez aimez ce tutoriel, allez voir la page du projet directement [ici](https://www.itowns-project.org/)
