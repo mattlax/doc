@@ -70,4 +70,11 @@ Les données (geojson et autres) sont directement appelées dans le Javascript, 
 #### C'est tout plat !  
 ![image](/3d/media/Image14.png "Title")
 
-### Étape 6 : Créer une vue c'est bien, montrer quelque chose c'est mieux ! Ajoutons un fond de carte satellite, obtenu via WMS. 
+### Étape 6 : Il faut ajouter un peu de relief à tout ça.
+*Ici il s'agit d'une source WMS de Data grand Lyon.* 
+![image](/3d/media/Image15.png "Title")
+#### C'est beau? 
+![image](/3d/media/Image16.png "Title")
+
+![image](/3d/media/Image17.png "Title")
+
