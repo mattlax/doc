@@ -39,4 +39,8 @@ Qui en est à l’initiative ?
 ![image](/3d/media/Image6.png "Title")
 
 * * *
-Créer une vue en 2,5d avec Itowns, tuto !
+# 3. Créer une vue en 2,5d avec Itowns, tuto !
+
+### La première étape consiste à créer le fichier HTML, reliant entre eux les fichiers sources et les fichiers du projet. 
+![image](/3d/media/Image7.png "Title")
+
