@@ -112,5 +112,6 @@ et plein d’autre choses !
 
 ### Si vous avez aimez ce tutoriel, allez voir la page du projet directement [ici](https://www.itowns-project.org/)
 
+*Par Damien Léoty, Llyodore Mimoun et Matthieu Lacroix*
 
 ![image](/3d/media/Image27.png "Title")
