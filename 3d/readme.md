@@ -78,3 +78,23 @@ Les données (geojson et autres) sont directement appelées dans le Javascript, 
 
 ![image](/3d/media/Image17.png "Title")
 
+### Étape 7 : Quelques noms de quartier pour les moins lyonnais d'entre-nous... 
+![image](/3d/media/Image18.png "Title")
+*La logique source/layer est toujours d'actualité, avec un rajout : ici, on insère le style de la couche avant l'affichage du layer!*
+
+#### 1,2,3, viva Lyon ! 
+![image](/3d/media/Image19.png "Title")
+
+### Étape 8 : Très important également, l'échelle dynamique est à créer et n'est pas incluse directement, mais comme on est sympa, voici le code.
+![image](/3d/media/Image20.png "Title")
+
+#### Petit aperçu de l'échelle dynamique.
+![image](/3d/media/Image21.png "Title")
+![image](/3d/media/Image22.png "Title")
+
+### Étape 9 : Avant de terminer, ajoutons un petit polygone sur ces données ! 
+![image](/3d/media/Image23.png "Title")
+
+#### Un polygone quelconque
+![image](/3d/media/Image24.png "Title")
+
