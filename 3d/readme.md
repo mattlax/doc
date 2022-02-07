@@ -99,7 +99,18 @@ Les données (geojson et autres) sont directement appelées dans le Javascript, 
 ![image](/3d/media/Image24.png "Title")
 
 ***
-## FIN
+## Fin du tutoriel 
 ***
-### Oh non, c'est déjà fini ! 
+
+Itowns c'est aussi une variété de visualisation : 
+ - Vue globe
+- Afficher des bâtiments en 3D, 
+- Afficher des fichiers 3D,
+- Afficher des nuages de points (lidar),  
+et plein d’autre choses ! 
+![image](/3d/media/Image25.png "Title")
+
 ### Si vous avez aimez ce tutoriel, allez voir la page du projet directement [ici](https://www.itowns-project.org/)
+
+
+![image](/3d/media/Image27.png "Title")
